@@ -1,0 +1,64 @@
+body {
+    background-image: url("/public/img/pattern.jpg");
+}
+
+header {
+    justify-content: space-between;
+    display: flex;
+    background-color: rgb(251, 239, 193);
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p {
+  border-bottom: 2px solid #111;
+  padding: 11px;
+}
+
+ul {
+    list-style-type: none;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+
+}
+
+li {
+    float: right;
+    display: block;
+    top: 5px;
+    width: 80px;
+    color: black;
+  }
+
+  section {
+    border-radius: 30px;
+    padding: 20px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    
+  }
+
+    footer {
+      float: center;
+      text-align: center;
+      color: white;
+      display: block;
+      padding: 15px;
+      background-color: #0d0d0d;
+    }
