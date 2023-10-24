@@ -9,7 +9,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    padding: 10px;
+    padding: 11px;
     border-radius: 8px;
     
 }
@@ -32,6 +32,7 @@ ul {
     margin-right: 0px;
     margin-left: 0px;
     padding: 0px;
+    display: inline-table;
 
 }
 
@@ -39,7 +40,7 @@ li {
     float: left;
     display: block;
     top: 5px;
-    width: 80px;
+    width: 85px;
     color: black;
     font-size: 17px;
   
@@ -57,10 +58,10 @@ media screen {
     border-radius: 30px;
     padding: 20px;
     background-color: white;
-    margin-top: 20px;
+    margin-top: 23px;
     margin-left: 200px;
     margin-right: 200px;
-    margin-bottom: 20px;
+    margin-bottom: 23px;
     
   }
 
