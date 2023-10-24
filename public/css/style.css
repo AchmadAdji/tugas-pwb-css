@@ -11,15 +11,15 @@ header {
     right: 0;
     padding: 10px;
     border-radius: 8px;
+    
+}
 
+#logo {
+  padding-left: 6px;
 }
 
 h1 {
     text-align: center;
-}
-
-a:link {
-    text-decoration: none;
 }
 
 p {
@@ -36,12 +36,22 @@ ul {
 }
 
 li {
-    float: right;
+    float: left;
     display: block;
     top: 5px;
     width: 80px;
     color: black;
+    font-size: 17px;
+  
   }
+
+  li:hover{
+    color: chocolate;
+  }
+
+media screen {
+  min-width: 450px;
+}
 
   section {
     border-radius: 30px;
