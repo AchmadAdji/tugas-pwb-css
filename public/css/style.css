@@ -14,6 +14,10 @@ header {
     
 }
 
+article a {
+  text-decoration: none;
+}
+
 #logo {
   padding-left: 6px;
 }
@@ -50,18 +54,16 @@ li {
     color: chocolate;
   }
 
-media screen {
-  min-width: 450px;
-}
 
   section {
     border-radius: 30px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin-top: 23px;
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 23px;
+    border: 1px solid black;
     
   }
 
